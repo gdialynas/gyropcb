@@ -32,3 +32,5 @@ It may be out of date so take a look at it carefully.
 - Description for solder jumper switch S2 on silkscreen layer is reversed.
 - Silkscreen on J1, J3 incorrect: WIND1 and WIND2 reversed.
 - Trace for HALL2_S2 between Ext3 and J3 is completely missing.
+- J1,J2 molexs male vertical headers should be changed with right angle headers.
+- J3,J4 can't withstand curent for motor windings 1,2,3. Motor winding cable must be connected directly to motor drive pins.
